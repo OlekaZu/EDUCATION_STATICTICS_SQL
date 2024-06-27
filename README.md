@@ -1,7 +1,7 @@
 # PROJECT_EDUCATION_STATICTICS
 PostgreSQL procedures and functions for creating and analizing the data of education proccess. 
 
-This project consists of different sql-scripts (**PostreSQL**), which allow to create database, fill it using import-procedure from .csv-file, export data to .csv-file, use various functions and procedures for analyzing.
+This project consists of different sql-scripts (**PostgreSQL**), which allow to create database, fill it using import-procedure from .csv-file, export data to .csv-file, use various functions and procedures for analyzing.
 
 ### Structure of the project:
 ```
